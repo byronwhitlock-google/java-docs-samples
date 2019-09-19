@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.deploymentmanager;
+
 
 import com.example.deploymentmanager.DeploymentManagerDemo;
 import com.google.api.client.auth.oauth2.Credential;
